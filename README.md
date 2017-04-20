@@ -1,5 +1,7 @@
 # zsh-pydev
 
+![](pics/snek.png)
+
 zsh plugin for Python development
 
 Provides:
