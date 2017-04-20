@@ -1,6 +1,10 @@
 export WORKON_HOME=~/.virtualenvs
 source /usr/bin/virtualenvwrapper.sh
 
+# for pip install --user
+export PATH=$PATH:$HOME/.local/bin/
+
+
 # Find python file
 alias pyfind='find . -name "*.py"'
 
