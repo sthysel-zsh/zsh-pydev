@@ -19,6 +19,6 @@ Based on OMZ python plugin and others.
 Using [zplug](https://github.com/zplug/zplug) in .zshrc 
 
 ```
-zplug "sthysel/zsh-pydev"
+zplug "sthyselzsh/zsh-pydev"
 ```
 
